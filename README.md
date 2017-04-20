@@ -1,3 +1,2 @@
 # CanSat
-
-# Chipset + Coding
+<p> Custom chipset + coding </p>
