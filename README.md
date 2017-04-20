@@ -1,1 +1,3 @@
-# Peddit
+# CanSat
+
+# Chipset + Coding
